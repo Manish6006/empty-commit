@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "this is printing"
+echo "this is printing today"
